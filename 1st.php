@@ -9,5 +9,6 @@
 <body>
     <h1>Hi buddy</h1>
     <h1>Hi buddy</h1>
+    <hr>Hey Buddy</hr>
 </body>
 </html>
